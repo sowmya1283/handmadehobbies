@@ -35,11 +35,26 @@ header a {
     color: inherit;
 }
 
+/* Heading style Merienda */
 h1 {
     font-family: 'Merienda', sans-serif;
     letter-spacing: 2px;
 }
 
+/* menu items spacing and made slightly bigger */
+#menu {
+    font-size: 110%;
+    letter-spacing: 2px;
+    list-style-type: none;
+}
+/* Margin bottom of each of the menu items is 1em */
+#menu > li {
+    margin-bottom: 1em;
+}
+/* */
+.active {
+    border-bottom: 1px solid #3a3a3a;
+}
 /*Main Content*/
 main {
     background-color: lightblue;
