@@ -1,5 +1,8 @@
-/* Asterick wildcard selector to override default styles added by the browser */
+/* Importing Google font for style Merienda */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Merienda:wght@300..900&display=swap');
 
+
+/* Asterick wildcard selector to override default styles added by the browser */
 * {
     padding: 0;
     margin: 0;
@@ -14,6 +17,7 @@ body {
 
     /*Generic project styles*/
     color: #3a3a3a;
+    font-family: 'Dancing' , sans-serif;
 }
 
 /* Header */
