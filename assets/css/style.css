@@ -108,7 +108,7 @@ footer {
     /* Header */
     nav {
         display: block;
-        position: relative;
+        position:relative;
         box-shadow: none;
         width: fit-content;
         padding-right: 2rem;
@@ -122,5 +122,16 @@ footer {
 
     .nav-toggle-label {
         display:none;
+    }
+    #logo {
+        font-size: 110px;
+        line-height: 100px;
+        margin: 0 0.5rem;
+    }
+    /* Main content */
+    main {
+        /* push main content down to accomodate larger header */
+        margin-top:202px;
+
     }
 }
