@@ -17,7 +17,7 @@ body {
 
     /*Generic project styles*/
     color: #3a3a3a;
-    font-family: 'Dancing' , sans-serif;
+    font-family: 'Dancing', sans-serif;
 }
 
 /* Header */
@@ -27,9 +27,11 @@ header {
     position: fixed;
     z-index: 99;
     width: 100%;
-box-shadow: 0 2px 2px #3a3a3a;
-
+    box-shadow: 0 2px 2px #3a3a3a;
+    display: flex; /* displays in a row */
+    align-items: baseline;
 }
+
 header a {
     text-decoration: none;
     color: inherit;
@@ -47,10 +49,12 @@ h1 {
     letter-spacing: 2px;
     list-style-type: none;
 }
+
 /* Margin bottom of each of the menu items is 1em */
-#menu > li {
+#menu>li {
     margin-bottom: 1em;
 }
+
 /* Added bottom border to the first menu item */
 .active {
     border-bottom: 1px solid #3a3a3a;
@@ -65,7 +69,12 @@ nav {
     padding: 0 1rem;
     box-shadow: 0 2px 2px #3a3a3a;
     display: none;
+    top: 100%; /*not working*/
+}
 
+/* nav toggle */
+#nav-toggle:checked~nav {
+    display: block;
 }
 
 /*Main Content*/
