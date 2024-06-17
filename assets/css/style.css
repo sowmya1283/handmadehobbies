@@ -23,15 +23,16 @@ body {
 /* Header */
 header {
     background-color: #ffffff;
-    padding: 0 1rem;
+    padding: 0 0;
     position: fixed;
     z-index: 99;
     width: 100%;
     box-shadow: 0 2px 2px #3a3a3a;
     display: flex;
-
+    justify-content: space-between;
     /* displays in a row */
     align-items: baseline;
+ 
 }
 
 header a {
@@ -113,10 +114,13 @@ footer {
         box-shadow: none;
         width: fit-content;
         padding-right: 2rem;
+        display:flex;
     }
 
     #menu {
         display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
     }
 
     #menu {
@@ -128,7 +132,7 @@ footer {
     }
 
     #logo {
-        font-size: 110px;
+        font-size: 90px;
         line-height: 100px;
         margin: 0 0.5rem;
     }
@@ -136,7 +140,7 @@ footer {
     /* Main content */
     main {
         /* push main content down to accomodate larger header */
-        margin-top: 202px;
+        margin-top: 220px;
 
     }
 }
@@ -145,5 +149,27 @@ footer {
 @media screen and (min-width: 992px) {
     #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
+        
     }
+
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 2rem;
+        display:flex;
+    }
+    #menu {
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content:space-between;
+        align-items: baseline;
+    }
+  /* Main content */
+  main {
+    /* push main content down to accomodate larger header */
+    margin-top: 200px;
+
+}
 }
