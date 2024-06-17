@@ -93,6 +93,7 @@ main {
 
     /* Make main element takeup any surplus space to push footer down */
     flex: 1 0 auto;
+    margin-top: 47px;
 }
 
 /* Footer */
