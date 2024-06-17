@@ -71,7 +71,7 @@ nav {
     padding: 0 1rem;
     box-shadow: 0 2px 2cap #3a3a3a;
     display: none;
-    top:100%;
+    top: 100%;
 }
 
 /* nav toggle */
@@ -81,7 +81,7 @@ nav {
 
 /* nav-toggle hide*/
 #nav-toggle {
-display: none;
+    display: none;
 }
 
 .nav-toggle-label {
@@ -105,33 +105,45 @@ footer {
 /* Media query: tablets and larger (768px and up) */
 
 @media screen and (min-width: 768px) {
+
     /* Header */
     nav {
         display: block;
-        position:relative;
+        position: relative;
         box-shadow: none;
         width: fit-content;
         padding-right: 2rem;
     }
+
     #menu {
-        display:flex;
+        display: flex;
     }
+
     #menu {
         padding-left: 2rem;
     }
 
     .nav-toggle-label {
-        display:none;
+        display: none;
     }
+
     #logo {
         font-size: 110px;
         line-height: 100px;
         margin: 0 0.5rem;
     }
+
     /* Main content */
     main {
         /* push main content down to accomodate larger header */
-        margin-top:202px;
+        margin-top: 202px;
 
+    }
+}
+
+/* Large devices (laptops and desktops , 992px and up */
+@media screen and (min-width: 992px) {
+    #menu a:hover {
+        border-bottom: 1px solid #3a3a3a;
     }
 }
