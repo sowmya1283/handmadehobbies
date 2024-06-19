@@ -32,7 +32,7 @@ header {
     justify-content: space-between;
     /* displays in a row */
     align-items: baseline;
- 
+
 }
 
 header a {
@@ -129,7 +129,7 @@ footer {
         box-shadow: none;
         width: fit-content;
         padding-right: 2rem;
-        display:flex;
+        display: flex;
     }
 
     #menu {
@@ -164,7 +164,7 @@ footer {
 @media screen and (min-width: 992px) {
     #menu a:hover {
         border-bottom: 1px solid #3a3a3a;
-        
+
     }
 
     nav {
@@ -173,18 +173,20 @@ footer {
         box-shadow: none;
         width: fit-content;
         padding-right: 2rem;
-        display:flex;
+        display: flex;
     }
+
     #menu {
         flex-wrap: wrap;
         flex-direction: row;
-        justify-content:space-between;
+        justify-content: space-between;
         align-items: baseline;
     }
-  /* Main content */
-  main {
-    /* push main content down to accomodate larger header */
-    margin-top: 200px;
 
-}
+    /* Main content */
+    main {
+        /* push main content down to accomodate larger header */
+        margin-top: 200px;
+
+    }
 }
