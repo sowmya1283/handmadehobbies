@@ -1,192 +1,196 @@
 /* Importing Google font for style Merienda */
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Merienda:wght@300..900&display=swap');
 
-
 /* Asterick wildcard selector to override default styles added by the browser */
 * {
-    padding: 0;
-    margin: 0;
-    box-sizing: 0;
+  padding: 0;
+  margin: 0;
+  box-sizing: 0;
 }
 
 /* General Styles */
 body {
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 
-    /*Generic project styles*/
-    color: #3a3a3a;
-    font-family: 'Dancing', sans-serif;
+  /*Generic project styles*/
+  color: #3a3a3a;
+  font-family: 'Dancing', sans-serif;
 }
 
 /* Header */
 header {
-    background-color: #ffffff;
-    padding: 0 0;
-    position: fixed;
-    z-index: 99;
-    width: 100%;
-    box-shadow: 0 2px 2px #3a3a3a;
-    display: flex;
-    justify-content: space-between;
-    /* displays in a row */
-    align-items: baseline;
-
+  background-color: #ffffff;
+  padding: 0 0;
+  position: fixed;
+  z-index: 99;
+  width: 100%;
+  box-shadow: 0 2px 2px #3a3a3a;
+  /* display: flex; */
+  margin-top: 1rem;
+  text-align: center;
 }
 
 header a {
-    text-decoration: none;
-    color: inherit;
+  text-decoration: none;
+  color: inherit;
 }
 
 /* Heading style Merienda */
 h1 {
-    font-family: 'Merienda', sans-serif;
-    letter-spacing: 2px;
+  font-family: 'Merienda', sans-serif;
+  letter-spacing: 2px;
 }
 
 /* menu items spacing and made slightly bigger */
 #menu {
-    font-size: 110%;
-    letter-spacing: 2px;
-    list-style-type: none;
+  font-size: 110%;
+  letter-spacing: 2px;
+  list-style-type: none;
 }
 
 /* Margin bottom of each of the menu items is 1em */
-#menu>li {
-    margin-bottom: 1em;
+#menu > li {
+  margin-bottom: 1em;
 }
 
 /* Added bottom border to the first menu item */
 .active {
-    border-bottom: 1px solid #3a3a3a;
+  border-bottom: 1px solid #3a3a3a;
 }
 
 /* Navbar styles with the dropdown toggle */
 nav {
-    position: absolute;
-    background-color: #ffffff;
-    width: 100%;
-    left: 0;
-    padding: 0 1rem;
-    box-shadow: 0 2px 2cap #3a3a3a;
-    display: none;
-    top: 100%;
+  position: absolute;
+  background-color: #ffffff;
+  width: 100%;
+  left: 0;
+  padding: 0 1rem;
+  box-shadow: 0 2px 2cap #3a3a3a;
+  display: none;
+  top: 100%;
 }
 
 /* nav toggle */
-#nav-toggle:checked~nav {
-    display: block;
+#nav-toggle:checked ~ nav {
+  display: block;
 }
 
 /* nav-toggle hide*/
 #nav-toggle {
-    display: none;
+  display: none;
 }
 
 .nav-toggle-label {
-    font-size: 2rem;
+  font-size: 2rem;
 }
 
 /*Main Content*/
 main {
-    background-color: lightblue;
-
-    /* Make main element takeup any surplus space to push footer down */
-    flex: 1 0 auto;
-    margin-top: 47px;
+  /* Make main element takeup any surplus space to push footer down */
+  flex: 1 0 auto;
+  margin-top: 47px;
 }
 
+/* Hero section */
+#hero {
+  height: 600px;
+  width: 100%;
+  background: url("../images/hero.jpg") no-repeat center center/cover;
+
+}
 /* Footer */
 footer {
-    background-color: #ffffff;
+  background-color: #ffffff;
 }
 
 /* added socail media links */
 #social-networks {
-    text-align: center;
-    padding: 20px 0;
-    display: flex;
-    justify-content: space-evenly;
-    list-style-type: none;
+  text-align: center;
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-evenly;
+  list-style-type: none;
 }
 
-#social-networks {
-    font-size: 160%;
-    padding: 5%;
-    color: #3a3a3a;
+#social-networks > li > a {
+  font-size: 160%;
+  padding: 5%;
+  color: #3a3a3a;
 }
 
 /* Media query: tablets and larger (768px and up) */
 
 @media screen and (min-width: 768px) {
+  /* Header */
+  nav {
+    display: block;
+    position: relative;
+    box-shadow: none;
+    width: fit-content;
+    padding-right: 2rem;
+    display: flex;
+  }
 
-    /* Header */
-    nav {
-        display: block;
-        position: relative;
-        box-shadow: none;
-        width: fit-content;
-        padding-right: 2rem;
-        display: flex;
-    }
+  #menu {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+  }
 
-    #menu {
-        display: flex;
-        flex-wrap: wrap;
-        flex-direction: row;
-    }
+  .nav-toggle-label {
+    display: none;
+  }
 
-    #menu {
-        padding-left: 2rem;
-    }
+  #logo {
+    font-size: 90px;
+    line-height: 100px;
+    margin: 0 0.5rem;
+  }
 
-    .nav-toggle-label {
-        display: none;
-    }
-
-    #logo {
-        font-size: 90px;
-        line-height: 100px;
-        margin: 0 0.5rem;
-    }
-
-    /* Main content */
-    main {
-        /* push main content down to accomodate larger header */
-        margin-top: 220px;
-
-    }
+  /* Main content */
+  main {
+    /* push main content down to accomodate larger header */
+    margin-top: 220px;
+  }
 }
 
 /* Large devices (laptops and desktops , 992px and up */
 @media screen and (min-width: 992px) {
-    #menu a:hover {
-        border-bottom: 1px solid #3a3a3a;
+  #menu a:hover {
+    border-bottom: 1px solid #3a3a3a;
+  }
 
-    }
+  nav {
+    box-shadow: none;
+    width: 100%;
+    padding-left: 0;
+    display: flex;
+    justify-content: center;
+  }
 
-    nav {
-        display: block;
-        position: relative;
-        box-shadow: none;
-        width: fit-content;
-        padding-right: 2rem;
-        display: flex;
-    }
+  #menu {
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: baseline;
+    width: 50%;
+  }
 
-    #menu {
-        flex-wrap: wrap;
-        flex-direction: row;
-        justify-content: space-between;
-        align-items: baseline;
-    }
-
-    /* Main content */
-    main {
-        /* push main content down to accomodate larger header */
-        margin-top: 200px;
-
-    }
+  /* Main content */
+  main {
+    /* push main content down to accomodate larger header */
+    margin-top: 200px;
+  }
 }
+
+.box {
+  border: solid black 1px;
+  width: 200px;
+}
+
+
+
+
+
