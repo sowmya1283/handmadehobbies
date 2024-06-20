@@ -119,6 +119,19 @@ main {
 
 }
 
+/* Crochet page section */
+#crochetimages {
+  
+}
+
+#photos img {
+  width:100%;
+  line-height: 1em;
+}
+
+#photos {
+  line-height:0;
+}
 /* Footer */
 footer {
   background-color: #ffffff;
@@ -216,11 +229,5 @@ footer {
   width: 200px;
 }
 
-/* Crochet page section */
-#crochetimages {
-  height: 500px;
-  width: 50%;
-  background: url("../images/scarf.jpeg") no-repeat top center/cover;
-  position: relative;
-}
+
 
