@@ -18,16 +18,17 @@ body {
   color: #3a3a3a;
   font-family: 'Dancing', sans-serif;
 }
+
 /* Heading style Merienda */
-h1 , h2 {
+h1,
+h2 {
   font-family: 'Merienda', sans-serif;
   letter-spacing: 2px;
 }
 
-
 /* Header */
 header {
-  background-color: #ffffff;
+  background-color: 	#eaf86c;
   padding: 0 0;
   position: fixed;
   z-index: 99;
@@ -52,7 +53,7 @@ header a {
 }
 
 /* Margin bottom of each of the menu items is 1em */
-#menu > li {
+#menu>li {
   margin-bottom: 1em;
 }
 
@@ -74,7 +75,7 @@ nav {
 }
 
 /* nav toggle */
-#nav-toggle:checked ~ nav {
+#nav-toggle:checked~nav {
   display: block;
 }
 
@@ -112,10 +113,12 @@ main {
   padding-top: 10px;
   padding-left: 10px;
 }
-#cover-text > h2 {
-color: #ffffff;
+
+#cover-text>h2 {
+  color: #ffffff;
 
 }
+
 /* Footer */
 footer {
   background-color: #ffffff;
@@ -130,7 +133,7 @@ footer {
   list-style-type: none;
 }
 
-#social-networks > li > a {
+#social-networks>li>a {
   font-size: 160%;
   padding: 5%;
   color: #3a3a3a;
@@ -139,6 +142,7 @@ footer {
 /* Media query: tablets and larger (768px and up) */
 
 @media screen and (min-width: 768px) {
+
   /* Header */
   nav {
     display: block;
@@ -212,7 +216,11 @@ footer {
   width: 200px;
 }
 
-
-
-
+/* Crochet page section */
+#crochetimages {
+  height: 500px;
+  width: 50%;
+  background: url("../images/scarf.jpeg") no-repeat top center/cover;
+  position: relative;
+}
 
