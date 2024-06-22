@@ -28,7 +28,7 @@ h2 {
 
 /* Header */
 header {
-  background-color: 	#eaf86c;
+  background-color: #eaf86c;
   padding: 0 0;
   position: fixed;
   z-index: 99;
@@ -120,18 +120,17 @@ main {
 }
 
 /* Crochet page section */
-#crochetimages {
-  
-}
+#crochetimages {}
 
 #photos img {
-  width:100%;
+  width: 100%;
   line-height: 1em;
 }
 
 #photos {
-  line-height:0;
+  line-height: 0;
 }
+
 /* Footer */
 footer {
   background-color: #ffffff;
@@ -152,8 +151,15 @@ footer {
   color: #3a3a3a;
 }
 
-/* Media query: tablets and larger (768px and up) */
+/* Media query: large or landscape phones (576px and up) */
+@media screen and (min-width: 576px) {
+  #photos {
+    column-count: 2;
+    column-gap: 0;
+  }
+}
 
+/* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
 
   /* Header */
@@ -193,6 +199,11 @@ footer {
     width: 270px;
     right: 30px;
   }
+
+  /* Gallery */
+  #photos {
+    column-count: 3;
+  }
 }
 
 /* Large devices (laptops and desktops , 992px and up */
@@ -201,6 +212,11 @@ footer {
     border-bottom: 1px solid #3a3a3a;
   }
 
+   /* Gallery */
+   #photos {
+    column-count: 4;
+  }
+  
   nav {
     box-shadow: none;
     width: 100%;
@@ -222,12 +238,10 @@ footer {
     /* push main content down to accomodate larger header */
     margin-top: 200px;
   }
+
 }
 
 .box {
   border: solid black 1px;
   width: 200px;
 }
-
-
-
