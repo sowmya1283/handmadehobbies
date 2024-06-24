@@ -5,7 +5,6 @@
 * {
   padding: 0;
   margin: 0;
-  box-sizing: 0;
 }
 
 /* General Styles */
@@ -18,10 +17,6 @@ body {
   color: #3a3a3a;
   font-family: 'Dancing', sans-serif;
 }
-#logo {
- 
-
-}
 
 /* Heading style Merienda */
 h1,
@@ -30,20 +25,22 @@ h2 {
   letter-spacing: 2px;
 }
 
+.paragraphs {
+  padding: 3rem 6rem;
+}
+
 .hidden-heading {
   display: none;
 }
 
 /* Header */
 header {
-  background-color: #aff7af;
+  background-color: #e7f5f3;
   padding: 0 0;
   position: fixed;
   z-index: 99;
   width: 100%;
   box-shadow: 0 2px 2px #3a3a3a;
-  /* display: flex; */
-  margin-top: 1rem;
   text-align: left;
 }
 
@@ -52,12 +49,12 @@ header a {
   color: inherit;
 }
 
-
 /* menu items spacing and made slightly bigger */
 #menu {
   font-size: 110%;
   letter-spacing: 2px;
   list-style-type: none;
+  margin-top: 0.5rem;
 }
 
 /* Margin bottom of each of the menu items is 1em */
@@ -107,17 +104,17 @@ main {
 #hero {
   height: 600px;
   width: 100%;
-  background: url("../images/hero.jpg") no-repeat center center/cover;
+  background: url('../images/hero.jpg') no-repeat center center/cover;
   position: relative;
   margin-bottom: 5px;
 }
 
 #cover-text {
   background-color: rgba(133, 127, 129, 0.7);
-  font-size: 130%;
+  font-size: 110%;
   position: absolute;
   bottom: 5px;
-  width: 80%;
+  width: 90%;
   min-height: 100px;
   padding-top: 10px;
   padding-left: 10px;
@@ -125,7 +122,6 @@ main {
 
 #cover-text>h2 {
   color: #ffffff;
-
 }
 
 /* Reasons section */
@@ -137,27 +133,24 @@ main {
   margin-bottom: 5px;
   font-family: 'Merienda';
   background-color: rgb(232, 232, 229);
-
 }
 
 #reasons h2 {
-
   text-align: center;
   font-size: 250%;
-  background-color: rgb(244, 186, 157);
+  background-color: rgb(245, 203, 182);
 }
 
-#benefits p {
-  padding: 0 20px;
+.benefits-list {
+  margin-bottom: 3rem;
 }
 
 hr {
   border-top: 1px solid #3a3a3a;
-
 }
 
 #circle-cover {
-  background: url("../images/centerimage.jpeg") no-repeat center center/cover;
+  background: url('../images/centerimage.jpeg') no-repeat center center/cover;
   height: 90vw;
   width: 90vw;
   margin-bottom: 20px;
@@ -181,7 +174,6 @@ hr {
 
 #times div {
   color: #fafafa;
-  ;
   background-color: rgba(0, 0, 0, 0.3);
   padding: 15px;
   text-align: center;
@@ -206,7 +198,7 @@ hr {
 
 /* Form */
 #signup {
-  background-image: url("../images/light_cover.jpeg");
+  background-image: url('../images/light_cover.jpeg');
   margin-top: 70px;
   background-size: cover;
   background-position: 100%;
@@ -215,19 +207,16 @@ hr {
   flex-grow: 1;
 }
 
-
 #signup-form {
   color: #ffffff;
   background-color: rgba(60, 60, 60, 0.6);
   padding: 30px;
 }
 
-
 #signup-form>h2 {
   color: #fafafa;
   margin-bottom: 20px;
 }
-
 
 .text-input {
   background: transparent;
@@ -240,13 +229,11 @@ hr {
   padding: 0 5px;
 }
 
-
 .radio-buttons {
   width: 100%;
   display: flex;
   justify-content: space-between;
 }
-
 
 .join-button {
   margin-top: 20px;
@@ -257,10 +244,9 @@ hr {
   color: #fafafa;
 }
 
-
 /* Footer */
 footer {
-  background-color: #69f4f0;
+  background-color: #e7f5f3;
 }
 
 /* added socail media links */
@@ -294,15 +280,18 @@ footer {
     display: block;
     position: relative;
     box-shadow: none;
-    width: fit-content;
     padding-right: 2rem;
     display: flex;
+    width: 100%;
+    justify-content: center;
   }
 
   #menu {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
+    width: 100%;
+    justify-content: space-around;
   }
 
   .nav-toggle-label {
@@ -310,6 +299,8 @@ footer {
   }
 
   #logo {
+    display: flex;
+    justify-content: center;
     font-size: 90px;
     line-height: 100px;
     margin: 0 0.5rem;
@@ -318,7 +309,7 @@ footer {
   /* Main content */
   main {
     /* push main content down to accomodate larger header */
-    margin-top: 220px;
+    margin-top: 200px;
   }
 
   /* Hero */
@@ -338,7 +329,6 @@ footer {
     flex-direction: column;
     width: 100%;
   }
-
 }
 
 /* Large devices (laptops and desktops , 992px and up */
@@ -365,15 +355,14 @@ footer {
     flex-direction: row;
     justify-content: space-evenly;
     align-items: baseline;
-    width: 50%;
+    width: 100%;
   }
 
   /* Main content */
   main {
     /* push main content down to accomodate larger header */
-    margin-top: 200px;
+    margin-top: 180px;
   }
-
 }
 
 .box {
