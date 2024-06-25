@@ -269,6 +269,18 @@ footer {
   color: #3a3a3a;
 }
 
+
+/* Media query: Mobile phones (466px and below) */
+@media screen and (max-width: 466px) {
+  
+  #logo img {
+  width:330px;
+  }
+  .paragraphs {
+    padding: 1rem 2rem;
+  }
+
+}
 /* Media query: large or landscape phones (576px and up) */
 @media screen and (min-width: 576px) {
   #photos {
