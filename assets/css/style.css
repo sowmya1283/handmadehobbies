@@ -25,6 +25,11 @@ h2 {
   letter-spacing: 2px;
 }
 
+h6 {
+  font-family: 'Merienda', sans-serif;
+  text-align: center;
+  margin-bottom: 2em ;
+}
 .paragraphs {
   padding: 3rem 6rem;
 }
