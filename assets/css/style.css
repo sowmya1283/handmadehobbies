@@ -150,7 +150,7 @@ hr {
 }
 
 #circle-cover {
-  background: url('../images/centerimage.jpeg') no-repeat center center/cover;
+  background: url('../images/centerimage.webp') no-repeat center center/cover;
   height: 90vw;
   width: 90vw;
   margin-bottom: 20px;
@@ -166,7 +166,7 @@ hr {
 }
 
 #times {
-  background: url(../images/sunsetcover.jpeg) no-repeat center/cover;
+  background: url(../images/sunsetcover.webp) no-repeat center/cover;
   /*Handles responsivity without the need for a media query*/
   display: flex;
   flex-wrap: wrap;
@@ -198,7 +198,7 @@ hr {
 
 /* Form */
 #signup {
-  background-image: url('../images/light_cover.jpeg');
+  background-image: url('../images/light_cover.webp');
   margin-top: 70px;
   background-size: cover;
   background-position: 100%;
