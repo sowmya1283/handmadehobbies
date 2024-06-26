@@ -279,6 +279,9 @@ footer {
   .paragraphs {
     padding: 1rem 2rem;
   }
+  #photos {
+    margin-top:85px;
+  }
 
 }
 /* Media query: large or landscape phones (576px and up) */
