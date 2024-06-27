@@ -130,45 +130,46 @@ The header element stays fixed at the top of the page when the user first scroll
 
 ![Title Screenshot](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/title.png)
 
-The title serves to state the name of the Website.
-The title present in Crazy For Crochet, Mosaic Art, Quilling Craft and Sign Up pages.
-The title is not present in the ‘Welcome Home’ Page. Logo with the text same as Handmade Hobbies is presented to the user to appease.
-Title in all other pages also serves as a navigation link to the home page “Welcome Home!” as per the well-established convention expected by the user.
+- The title serves to state the name of the Website.
+- The title present in Crazy For Crochet, Mosaic Art, Quilling Craft and Sign Up pages.
+- The title is not present in the ‘Welcome Home’ Page. Logo with the text same as Handmade Hobbies is presented to the user to appease.
+- Title in all other pages also serves as a navigation link to the home page “Welcome Home!” as per the well-established convention expected by the user.
 
 **_Logo:_**
 
-The logos are created to the captivate user’s attention and to portray the website intentions. Colourful ai generated image of heart is presented in ‘Welcome Home!’ page. (The other pages have Title with the same text as mentioned in the logo of the home page.)
+- The logos are created to the captivate user’s attention and to portray the website intentions. Colourful ai generated image of heart is presented in ‘Welcome Home!’ page. (The other pages have Title with the same text as mentioned in the logo of the home page.)
 
-Logo on mobile devices ensured the title stays as big as possible on a smaller screen, improving the user experience.
+- Logo on mobile devices ensured the title stays as big as possible on a smaller screen, improving the user experience.
 
 ![logo](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/logo.png)
 
 **_Navigation Bar:_**
 
-The navigation bar appears on all five pages (including the form Sign Up page) with a white background.
-It contains links to the Welcome Home!, Crazy For Crochet, Mosaic Art , Quilling Craft and Sign Up page to allow easy navigation around the website.
-The below image shows the user’s current page.
+- The navigation bar appears on all five pages (including the form Sign Up page) with a white background.
+- It contains links to the Welcome Home!, Crazy For Crochet, Mosaic Art , Quilling Craft and Sign Up page to allow easy navigation around the website.
+- The below image shows the user’s current page.
 
 ![Nav Bar](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/navbar.png)
 
-Hover-over feature, which turns the menu option the same as the active page when users hover their cursor over the navbar heading.
+- Hover-over feature, which turns the menu option the same as the active page when users hover their cursor over the navbar heading.
+
 
 ![Hover over highlight](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/HoveroverNavbar.png)
 
 ### Hero Image
 
-I have included a hero image in the ‘Welcome Home!’ page only.
-All other pages are similar to gallery pages and have nav links.
-And also a sign-up form also doesn’t have any logo image.
+- I have included a hero image in the ‘Welcome Home!’ page only.
+- All other pages are similar to gallery pages and have nav links.
+- And also a sign-up form also doesn’t have any logo image.
 
 
 ### Footer
 
-The footer includes direct links to all the social media platform with the little icons
-Initially social media platforms were having the placeholder texts then later replaced with icons. These icons are very small and take-up very little space.
-Still Handmade Hobbies accounts on all those Social Media platform is pending to be developed in the upcoming phases. These links then will updated to connect to the respective pages.
-These icons were imported from font awesome using Javascript at the bottom of the page.
-A statement stating that all photographs on the website are the property of Handmade Hobbies and that the site is only meant for educational reasons was included. I added this after chatting on Slack with the Code Institute for suggestions.
+- The footer includes direct links to all the social media platform with the little icons
+- Initially social media platforms were having the placeholder texts then later replaced with icons. These icons are very small and take-up very little space.
+- Still Handmade Hobbies accounts on all those Social Media platform is pending to be developed in the upcoming phases. These links then will updated to connect to the respective pages.
+- These icons were imported from font awesome using Javascript at the bottom of the page.
+- A statement stating that all photographs on the website are the property of Handmade Hobbies and that the site is only meant for educational reasons was included. I added this after chatting on Slack with the Code Institute for suggestions.
 
 ![Footer](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/footer.png)
 
@@ -188,7 +189,7 @@ A statement stating that all photographs on the website are the property of Hand
 
 ### Home Page Or ‘Welcome Home!’ Page:
 
-Hero-Image:
+**_Hero-Image:_**
 
 Very striking and colourful hero image for a website that displays a range of artistic crafts. A variety of colourful supplies and equipment, including yarn, coloured pencils, beads, fabric and paintbrushes are used in the scenario. There’s a hand-drawn sign in the foreground that says “Handmaade Hobbies.” As you can see, the image has two ‘AA’’s in the ‘HANDMAADE’ just to be more creative.
 The background image is configured to cover with the position centre, thus the image appears fantastic on all screen resolution.
@@ -199,7 +200,7 @@ The background image is configured to cover with the position centre, thus the i
 
 Inside the hero image, an overlay with the craft categories are listed in this web site. This is added because to create an customer attention or to make a positive impact to a new visitor on the website. This text is made readable with a transparent background making it easier to notice. The position of this overlay is made absolute so that it can be placed on top of the Hero image.
 
-What? , Why? and Benefits! Section:
+**_What? , Why? and Benefits! Section:_**
 
 The main purpose of the website is to inspire, convey information or benefits of handmade craft items , connect with like-minded hobbyists , to reach out to the author for any collaborative work and etc. Therefore the section below the hero image is divided into three parts with detail information about ‘What is’ handmade hobbies is all about? ‘Why’ Handmade hobbies? and ‘Benefits’ of Handmade hobbies for any individual.
 
@@ -213,7 +214,7 @@ As you can see the images below, they are having a title and information as ment
 
 The above section is also made responsive based on the Mobile, Tablet and Laptop version. Enough padding is added to make the content displayed neatly within the div for larger screens. Whereas padding has been reduced to make sure that this content is more readable on mobile devices.
 
-Circular image:
+**_Circular image:_**
 
 Circular image has been added to match the handmade hobbies content which is mentioned above and is responsive according to the screen resolution.
 
@@ -221,7 +222,7 @@ The circular image conveys the message that what users will be doing when they s
 
 ![Added circular screenshot](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/circularimage.png)
 
-Meetup Times:
+**_Meetup Times:_**
 
 The last section of our welcome home page is our ‘Meetup times’ section. A website’s “Meetup” section can greatly increase consumer interaction, offer social and educational benefits, and also will help to create a solid, dedicated client base. It may provide lively and engaging environment for their clients by providing a range of activities and making sure that communication is simple.
 
