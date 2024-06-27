@@ -237,65 +237,70 @@ All the pages apart from welcome home page in the website are similar like ‘Ga
 
 ### Crazy For Crochet Page:
 
-A wide range of creative possibilities are offered by Crochet. Some examples are clothing, baby items, home decor items, accessories, seasonal items etc.
-This crochet gallery page has some beautiful images to inspire the hobbyists.
-The gallery page has only image content, no text content has been added to this.
-<![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image014.png)<![endif]>
+- A wide range of creative possibilities are offered by Crochet. Some examples are clothing, baby items, home decor items, accessories, seasonal items etc.
+- This crochet gallery page has some beautiful images to inspire the hobbyists.
+- The gallery page has only image content, no text content has been added to this.
+
+![Crazy for crochet gallery page ](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/Crazyforcrochetpage.png)
 
 ### Mosaic Art Page:
 
-<![if !supportLists]>· <![endif]>Mosaic art is a form of decorative art mainly from different cultural background like Greece, Roman and Islamic traditions. Created using small piece of materials such as stone, glass pieces, ceramic or tiles etc.
+- Mosaic art is a form of decorative art mainly from different cultural background like Greece, Roman and Islamic traditions. Created using small piece of materials such as stone, glass pieces, ceramic or tiles etc.
 
-This Mosaic gallery page has some beautiful images to inspire the hobbyists.
-The gallery page has only image content, no text content has been added to this.
-<![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image015.png)<![endif]>
+- This Mosaic gallery page has some beautiful images to inspire the hobbyists.
+- The gallery page has only image content, no text content has been added to this.
+
+![Mosaic art page](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/MosaicArtPage.png)
 
 ### Quilling Craft Page:
 
-Quilling is a form of paper art which is made using strips of paper. These stripes are rolled, glued to create different shapes.
-The Quilling Craft gallery page has some beautiful images to inspire the hobbyists.
-The gallery page has only image content, no text content has been added to this.
-<![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image016.png)<![endif]>
+- Quilling is a form of paper art which is made using strips of paper. These stripes are rolled, glued to create different shapes.
+- The Quilling Craft gallery page has some beautiful images to inspire the hobbyists.
+- The gallery page has only image content, no text content has been added to this.
+
+![Quilling craft page](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/QuillingCraft.png)
 
 ### Sign Up page content
 
-The purpose of this page is to simulate the process of submitting a form.
-A background image with light golden colour which is in contrast for the form colour.
-A hand holding heart font has been added before the ‘Let’s get you signed up!’ text. This icon is from font-awesome.
+- The purpose of this page is to simulate the process of submitting a form.
+- A background image with light golden colour which is in contrast for the form colour.
+- A hand holding heart font has been added before the ‘Let’s get you signed up!’ text. This icon is from font-awesome.
 Adjusted the image and the form properly by using margin-top. The large gap between the nav and the form were reduced using this property.
-All the radio buttons were not aligned properly at the initial stage and they have been made to spread-out with justify content property.
-<![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image017.png)<![endif]>
+- All the radio buttons were not aligned properly at the initial stage and they have been made to spread-out with justify content property.
+
+![Sign up page](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/Signuppage.png)
 
 ## V. Future-Enhancements
 
-The future intention of the site would be to serve as a website specifically to grow visitors and involve more hobbyists to sign up to the website. To add more content related to new designs, tutorials, different type of materials used. If possible enhance the website to create a buy and sell platform at later stages.
-<![if !supportLists]>· <![endif]>At first, the purpose would remain to inspire people and spread awareness about benefits of hand-crafted items. However, There would be additional content as mentioned above.
+- The future intention of the site would be to serve as a website specifically to grow visitors and involve more hobbyists to sign up to the website. To add more content related to new designs, tutorials, different type of materials used. If possible enhance the website to create a buy and sell platform at later stages.
 
-Video tutorials of all the handmade craft items.
+- At first, the purpose would remain to inspire people and spread awareness about benefits of hand-crafted items. However, There would be additional content as mentioned above.
 
-How to choose materials to use for different kind of handmade craft items.
+- Video tutorials of all the handmade craft items.
 
-Handmade hobbies account creation on different social media platforms and linking them to the website.
+- How to choose materials to use for different kind of handmade craft items.
 
-Bringing users designs on the webpage.
+- Handmade hobbies account creation on different social media platforms and linking them to the website.
 
-Improvising the media content format on the different gallery pages.
+- Bringing users designs on the webpage.
 
-I would also make the contact form fully function with a post request and have a database to collate data for the mailing list.
+- Improvising the media content format on the different gallery pages.
+
+- I would also make the contact form fully function with a post request and have a database to collate data for the mailing list.
 
 ## VI. Testing Phase
 
-I have a second document named TESTING_PHASE.md that contains information about testing both during and after development.
+I have a second document named [TESTING_PHASE.md](https://github.com/sowmya1283/handmadehobbies/blob/main/TESTING_PHASE.md) that contains information about testing both during and after development.
 
 ## VII. Deployment
 
 I deployed the page on GitHub pages via the following procedure: -
 
-From the project’s repository, go to the Settings tab.
-From the left-hand menu, select the Pages tab.
-Under the Source section, select the Main branch from the drop-down menu and click Save.
-A message will be displayed to indicate a successful deployment to GitHub pages and provide the live link.
-You can find the live site via the following URL- https://sowmya1283.github.io/handmadehobbies/
+- From the project’s repository, go to the Settings tab.
+- From the left-hand menu, select the Pages tab.
+- Under the Source section, select the Main branch from the drop-down menu and click Save.
+- A message will be displayed to indicate a successful deployment to GitHub pages and provide the live link.
+- You can find the live site via the following URL- https://sowmya1283.github.io/handmadehobbies/
 
 ## VIII. Credits
 
@@ -303,24 +308,24 @@ You can find the live site via the following URL- https://sowmya1283.github.io/h
 
 This project could not have happened without the support of the following people listed in no particular order:
 
-Richard Wells - Code Institute Mentor who has gone above and beyond what was expected of him to help me get this far in the course.
-Lewis Dillon: From Code institute For the longest and most comprehensive peer review that I received via our stand-up calls. His feedback was truly amazing
-Tulio Minini: One of my friend from code institute has been helping me in reviewing the website and provided some great comments.
-The code institute Slack community as a whole who tested and supported throughout.
-And the biggest thanks goes to my daughter and my mother who inspires me and encourages me to keep learning.
-Code institute tutor support for fixing any workspace issues or launching website issues has been very helpful.
+- Richard Wells - Code Institute Mentor who has gone above and beyond what was expected of him to help me get this far in the course.
+- Lewis Dillon: From Code institute For the longest and most comprehensive peer review that I received via our stand-up calls. His feedback was truly amazing
+- Tulio Minini: One of my friend from code institute has been helping me in reviewing the website and provided some great comments.
+- The code institute Slack community as a whole who tested and supported throughout.
+- And the biggest thanks goes to my daughter and my mother who inspires me and encourages me to keep learning.
+- Code institute tutor support are awesome, they always help in fixing any workspace issues or launching website issues has been very helpful or even tutoring was very helpful.
 
 ### General reference:
 
-The Code Institute’s “Love Running” code-along initiative had an impact on the project. Even though I made every effort to diverge, there might still be some code similarities.
-Throughout the project, I used stack overflow, google, and W3schools as general references.
+- The Code Institute’s “Love Running” code-along initiative had an impact on the project. Even though I made every effort to diverge, there might still be some code similarities.
+- Throughout the project, I used stack overflow, google, and W3schools as general references.
 
 ### Content:
 
-All content was written by myself except some used from chatGPT.
-Some of the handcraft text contents were inspired by – wikipedia.org
-Icons in the footer were taken from Font Awesome
-Header, text content fonts imported from - Google Fonts
+- All content was written by myself except some used from chatGPT.
+- Some of the handcraft text contents were inspired by – wikipedia.org
+- Icons in the footer were taken from Font Awesome
+- Header, text content fonts imported from - Google Fonts
 
 ### Media:
 
