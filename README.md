@@ -1,4 +1,4 @@
-<![endif]–>
+
 
 Handmade Hobbies
 
@@ -21,12 +21,12 @@ How Is This Will Be Achieved:
 Wireframes
 Colour Scheme
 Current Features Common to all pages
-Header Element:
-Title
-    Logo
-    Navigation Bar
-    Hero Image
-Footer
+    Header Element:
+    Title
+        Logo
+        Navigation Bar
+        Hero Image
+    Footer
 Typography  
 Individual Page Content features
 Home Page or Welcome Home Page
@@ -268,7 +268,7 @@ I would also make the contact form fully function with a post request and have a
 
 Testing Phase
 
-I have a second document named TESTING.md that contains information about testing both during and after development.
+I have a second document named TESTING_PHASE.md that contains information about testing both during and after development.
 
 Deployment
 
@@ -304,13 +304,13 @@ Icons in the footer were taken from Font Awesome
 Header, text content fonts imported from - Google Fonts
 Media:
 
-Handmade Hobbies logo is generated and modified from - https://ideogram.ai/ and Canva respectively.
-Some Quilling Craft gallery images are taken from - https://www.freepik.com/
-Some Quilling Craft gallery images are taken from - https://stock.adobe.com/
-Some Mosaic Art gallery images are taken from - https://stock.adobe.com/
-Some Crazy For Crochet gallery images are generated from - https://ideogram.ai/
-Some Crazy For Crochet gallery images are generated from - https://stock.adobe.com/
-Some Crazy For Crochet gallery images are generated from - https://www.freepik.com/
-Screenshot under README.md section titled “site overview” was created view Am I responsive
-Some of the images are from google images https://www.google.com/imghp?hl=en-GB&tab=ri&authuser=0&ogbl
-Markdown 21798 bytes 2841 words 334 lines Ln 27, Col 25HTML 16154 characters 2704 words 213 paragraphs
+1. Handmade Hobbies logo is generated and modified from - https://ideogram.ai/ and Canva respectively.
+2. Some Quilling Craft gallery images are taken from - https://www.freepik.com/
+3. Some Quilling Craft gallery images are taken from - https://stock.adobe.com/
+4. Some Mosaic Art gallery images are taken from - https://stock.adobe.com/
+5. Some Crazy For Crochet gallery images are generated from - https://ideogram.ai/
+6. Some Crazy For Crochet gallery images are generated from - https://stock.adobe.com/
+7. Some Crazy For Crochet gallery images are generated from - https://www.freepik.com/
+8. Screenshot under README.md section titled “site overview” was created view Am I responsive
+9. Some of the images are from google images https://www.google.com/imghp?hl=en-GB&tab=ri&authuser=0&ogbl
+10. Some of the images are resized using https://www.tinypng.com
