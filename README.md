@@ -70,7 +70,7 @@ A person’s values and personality are best expressed through handmade products
 - To offer the user a way to contact the site author for further info or discussion.
 - To offer the user a platform for meetup events.
 
-### How Is This Will Be Achieved:
+### How This Will Be Achieved:
 
 - The home page provides the user with a summary of the handcrafted items.
 - The information like what and why regarding handmade hobbies.
@@ -161,7 +161,7 @@ The header element stays fixed at the top of the page when the user first scroll
 - I have included a hero image in the ‘Welcome Home!’ page only.
 - All other pages are similar to gallery pages and have nav links.
 - And also a sign-up form also doesn’t have any logo image.
-
+- Hero image had been included in the Home page section.
 
 ### Footer
 
