@@ -1,18 +1,18 @@
 
 # Testing Phase and details**
 
-## I. Testing During Development
+## I. Testing During Development 
 - Manual Testing
 - Bugs and Fixes
 
  ## II. Testing Phase**
 
-**Validators**
+[**Validators**](https://github.com/sowmya1283/handmadehobbies/blob/main/TESTING_PHASE.md#Validators)
 
 - HTML
 - CSS
 
-[**Lighthouse Scores**](https://github.com/dnlbowers/modern-buddhism/blob/main/TESTING.md#lighthouse-scores)
+[**Lighthouse Scores**](https://github.com/sowmya1283/handmadehobbies/blob/main/TESTING_PHASE.md#lighthouse-scores)
 
 - Desktop Version
 - Mobile Version
@@ -141,7 +141,7 @@ Social media link displayed in a line side by side in the footer.
 
 - No CSS issues were there.
 
-<![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.png)<![endif]>
+[No css issue screenshot](#https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/CSS_noerror.png)
 
   
 [<![if !vml]>![CSS validator badge](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.png)<![endif]>](https://camo.githubusercontent.com/670b7edf040247729106e1d47807221159973c6406a36607949e50a7f37d5ef1/68747470733a2f2f6a69677361772e77332e6f72672f6373732d76616c696461746f722f696d616765732f76637373)
