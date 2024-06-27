@@ -8,18 +8,18 @@ A website to showcase and sell handmade craft projects for selling or even blogg
 
 A person’s values and personality are best expressed through handmade products, which always have a large value in the market. They showcase the benefits of “uniqueness” and "love. “This website is designed for any fellow hobbyists, or any customers who are interested to buy or even learn. If someone who share the same passion and love for handmade craft items then this website is for perfect for you. Colourful crochet items, small mirror or mosaic art and also quilling art are added in this website.
 
-<![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.png)<![endif]>
+![Hero image](https://github.com/sowmya1283/handmadehobbies/blob/main/assets/images/hero.webp)
 
 ## Table of contents:
 
 ## I. Site Overview
 ## II. Planning stage
-        ### - Target Audiences
-        ### - User Stories
-        ### - Site Aims
-        ### - How Is This Will Be Achieved:
-        ### - Wireframes
-        ### - Colour Scheme
+ ### - Target Audiences
+ ### - User Stories
+ ### - Site Aims
+ ### - How Is This Will Be Achieved:
+ ### - Wireframes
+ ### - Colour Scheme
 ## III. Current Features Common to all pages
 ### Header Element:
  #### - Title
@@ -125,7 +125,7 @@ When making my selection, I wanted to go with a color palette that was stylish. 
 
 The header element stays fixed at the top of the page when the user first scrolls through (or scrolls up and down). A Code Institute alumnus pointed out that the sticky header will improve user experience and adhere to prevailing trends. The header itself contains the below elements.
 
-Title:
+**_Title:_**
 
 <![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.png)<![endif]>
 
@@ -134,7 +134,7 @@ The title present in Crazy For Crochet, Mosaic Art, Quilling Craft and Sign Up p
 The title is not present in the ‘Welcome Home’ Page. Logo with the text same as Handmade Hobbies is presented to the user to appease.
 Title in all other pages also serves as a navigation link to the home page “Welcome Home!” as per the well-established convention expected by the user.
 
-Logo:
+**_Logo:_**
 
 The logos are created to the captivate user’s attention and to portray the website intentions. Colourful ai generated image of heart is presented in ‘Welcome Home!’ page. (The other pages have Title with the same text as mentioned in the logo of the home page.)
 
@@ -142,7 +142,7 @@ Logo on mobile devices ensured the title stays as big as possible on a smaller s
 
 <![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.png)<![endif]>
 
-Navigation Bar:
+**_Navigation Bar:_**
 
 The navigation bar appears on all five pages (including the form Sign Up page) with a white background.
 It contains links to the Welcome Home!, Crazy For Crochet, Mosaic Art , Quilling Craft and Sign Up page to allow easy navigation around the website.
