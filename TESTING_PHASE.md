@@ -158,7 +158,7 @@ Social media link displayed in a line side by side in the footer.
 
 **Desktop**
 
-![Desktop Homepage performance](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/HomepagePerformancedesktop.png)
+![Desktop homepage performance](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/HomepagePerformancedesktop.png)
 
 
 **Mobile**
@@ -170,6 +170,7 @@ Social media link displayed in a line side by side in the footer.
 **2. Crazy For Crochet:**
 
 **Desktop** 
+
 ![Crochet performance desktop](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/CrazyforcrochetPerformanceDesktop.png)
 
 
