@@ -22,19 +22,12 @@ Wireframes
 Colour Scheme
 Current Features Common to all pages
 Header Element:
-
 Title
-
-Logo
-
-Navigation Bar
-
-Hero Image
-
+    Logo
+    Navigation Bar
+    Hero Image
 Footer
-
-Typography
-
+Typography  
 Individual Page Content features
 Home Page or Welcome Home Page
 Crazy for Crochet Content Page
@@ -82,7 +75,7 @@ The site will provide information on the meetups available to engage with the co
 The option for users to connect with the author via sign up link.
 Wireframes:
 
-I made wireframes for this project to help me keep my thoughts in place and to avoid any scope creep. Links to the five targeted pages on desktop and mobile platforms are provided below.
+Wireframes were added to this project to keep my thoughts structured and to avoid any discrepancies from the actual website design. Links to the five targeted pages on desktop and mobile platforms are provided below.
 
 Mobile Wireframes:
 
@@ -108,14 +101,14 @@ Quilling Craft Page
 
 Sign-Up Page
 
-In order to improve the user experience, wireframes were modified a bit. Please find the below changes.
+In order to improve the user experience, wireframes were modified a changed a bit. Please find the below changes.
 
-Though some texts were added to the Crazy For Crochet, Mosaic Art and Quilling Craft pages in between, they have been modified to keep it none.
-Initial ‘Header’ had the same design across all the pages. Later only logo has been added in the home page and rest of the pages have title.
+Though some texts were added to the Crazy For Crochet, Mosaic Art and Quilling Craft pages initially, they have been removed and might be added in upcoming deployments.
+Initial ‘Header’ had the same design across all the pages. Later only logo has been added in the home page and rest of the pages have same title.
 Header section of the welcome page has new logo. (Old logo has been replaced)
 Colour Scheme:
 
-I wanted to choose a colour scheme that looked classy when I made my decision. Because of this, I chose a range of light blue for the navigation bar and dim light orange and grey for the accent colour. To gauge the contrast scores, I developed a colour grid using the colour https://contrast-grid.eightshapes.com/ . I was able to guarantee that all text stayed visible and that everyone could visit the website by using this grid.
+When making my selection, I wanted to go with a color palette that was stylish. For this reason, I went with a light blue navigation bar and accent colors of dim light orange and grey. To gauge the contrast scores, I developed a colour grid using the colour https://contrast-grid.eightshapes.com/ . I was able to guarantee that all text stayed visible and that everyone could visit the website by using this grid.
 
 <![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.png)<![endif]>
 
@@ -123,7 +116,7 @@ Current Features Common to all pages
 
 Header Element
 
-When the user initially scrolls through (or scrolls up and down), the header element remains fixed at the top of the page. A graduate of the Code Institute noted that the sticky header would offer a better user experience and follow popular patterns. The following elements are present in the header itself:
+The header element stays fixed at the top of the page when the user first scrolls through (or scrolls up and down). A Code Institute alumnus pointed out that the sticky header will improve user experience and adhere to prevailing trends. The header itself contains the below elements.
 
 Title:
 
@@ -135,7 +128,7 @@ The title is not present in the ‘Welcome Home’ Page. Logo with the text same
 Title in all other pages also serves as a navigation link to the home page “Welcome Home!” as per the well-established convention expected by the user.
 Logo:
 
-The logos are created to the captivate user’s attention and be the portray the website. Colourful ai generated image of heart is presented in ‘Welcome Home!’ page. (The other pages have Title with the same text as mentioned in the logo of the home page.)
+The logos are created to the captivate user’s attention and to portray the website intentions. Colourful ai generated image of heart is presented in ‘Welcome Home!’ page. (The other pages have Title with the same text as mentioned in the logo of the home page.)
 
 Logo on mobile devices ensured the title stays as big as possible on a smaller screen, improving the user experience.
 
@@ -148,21 +141,21 @@ It contains links to the Welcome Home!, Crazy For Crochet, Mosaic Art , Quilling
 The below image shows the user’s current page.
 <![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image005.png)<![endif]>
 
-Hover over feature, which turns the menu option the same as the active page when users hover their cursor over the navbar heading.
+Hover-over feature, which turns the menu option the same as the active page when users hover their cursor over the navbar heading.
 <![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image006.png)<![endif]>
 
 Hero Image
 
-I have included a hero image in the ‘Welcome Home!’ page Only.
+I have included a hero image in the ‘Welcome Home!’ page only.
 All other pages are similar to gallery pages and have nav links.
-And also a sign-up form also doesn’t have any logo.
+And also a sign-up form also doesn’t have any logo image.
 Footer
 
 The footer includes direct links to all the social media platform with the little icons
 Initially social media platforms were having the placeholder texts then later replaced with icons. These icons are very small and take-up very little space.
 Still Handmade Hobbies accounts on all those Social Media platform is pending to be developed in the upcoming phases. These links then will updated to connect to the respective pages.
 These icons were imported from font awesome using Javascript at the bottom of the page.
-I included a disclaimer that the site is intended solely for educational purposes and that all images remain the property of Handmade hobbies. I added this after seeking advice from the Code Institute on slack.
+A statement stating that all photographs on the website are the property of Handmade Hobbies and that the site is only meant for educational reasons was included. I added this after chatting on Slack with the Code Institute for suggestions.
 <![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image007.png)<![endif]>
 
 Typography
@@ -179,7 +172,7 @@ All fonts were sourced from Google fonts, as stated in the credits.
 
 Individual Page Content features
 
-Home Page Or ‘Welcome Home!’ Page
+Home Page Or ‘Welcome Home!’ Page:
 
 Hero-Image:
 
@@ -206,22 +199,24 @@ The above section is also made responsive based on the Mobile, Tablet and Laptop
 
 Circular image:
 
-Circular image has been added to match the handmade hobbies content which is mentioned above and is responsive according to the screen resolution. The image was made circular by making border radius to 50% to the actual image. Earlier image had a width and height of 300px but as the image was looking a bit small in larger screens , these attributes have been increased to 400px.
+Circular image has been added to match the handmade hobbies content which is mentioned above and is responsive according to the screen resolution.
+
+The circular image conveys the message that what users will be doing when they see handmade hobbies. The image has seven sections where people are involved in crochet, knitting, moulding clay, painting etc.
 
 <![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image012.png)<![endif]>
 
 Meetup Times:
 
-The last section of our welcome home page is our ‘Meetup times’ section. This section provides visitors about all the necessary information about our timings of meetup events happening over the complete week. Based on the information provided on the website user can decide which meetup session they want to join.
-this meetup events tell information like time, day of the meetup and what will be the agenda of the meetup.
+The last section of our welcome home page is our ‘Meetup times’ section. A website’s “Meetup” section can greatly increase consumer interaction, offer social and educational benefits, and also will help to create a solid, dedicated client base. It may provide lively and engaging environment for their clients by providing a range of activities and making sure that communication is simple.
 
-Our meetup section is fully responsive. Flexbox is used to achieve the responsiveness of this section. (As you can see that Media query is not used.)
+This section provides visitors about all the necessary information about our timings of meetup events happening over the complete week. Based on the information provided on the website user can decide which meetup session they want to join.
+this meetup events tell information like time, day of the meetup and what will be the agenda of the meetup.
 
 <![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image013.png)<![endif]>
 
 All the other page contents(Similar to Gallery)
 
-All the pages apart from welcome home page in the website are similar like ‘Gallery’ pages. They have different images files loaded and are responsive to the screen sizes. On mobile screens, these images are loaded in single column. As the screen size grows bigger the column are spread-out. To help the visually impaired users on the scenario of failed image loading, an alt text has been added to each image. A line height of 1em is added to just to make sure that in-case of image loading fails, the alt text displays properly. Column-count has been specified according to the screen size for responsive adjustment of the images using media query.
+All the pages apart from welcome home page in the website are similar like ‘Gallery’ pages. They have different images files loaded and are responsive to the screen sizes. On mobile screens, these images are loaded in single column. As the screen size increases the column are spread-out. To help the visually impaired users on the scenario of failed image loading, an alt text has been added to each image. In-case of image loading fails, the alt text displays. Columns will increase according to the screen size. (eg., for mobile single column, for tablet 3 columns and laptops four columns)
 
 Crazy For Crochet Page:
 
@@ -232,9 +227,8 @@ The gallery page has only image content, no text content has been added to this.
 
 Mosaic Art Page:
 
-<![if !supportLists]>· <![endif]>Mosaic art is a form of decorative art mainly from different cultural background like Greece, Roman and Islamic traditions.
+<![if !supportLists]>· <![endif]>Mosaic art is a form of decorative art mainly from different cultural background like Greece, Roman and Islamic traditions. Created using small piece of materials such as stone, glass pieces, ceramic or tiles etc.
 
-Created using small piece of materials such as stone, glass pieces, ceramic or tiles etc.
 This Mosaic gallery page has some beautiful images to inspire the hobbyists.
 The gallery page has only image content, no text content has been added to this.
 <![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image015.png)<![endif]>
@@ -258,8 +252,7 @@ All the radio buttons were not aligned properly at the initial stage and they ha
 Future-Enhancements
 
 The future intention of the site would be to serve as a website specifically to grow visitors and involve more hobbyists to sign up to the website. To add more content related to new designs, tutorials, different type of materials used. If possible enhance the website to create a buy and sell platform at later stages.
-
-At first, the purpose would remain to inspire people and spread awareness about benefits of hand crafted items. However, There would be additional content as mentioned above.
+<![if !supportLists]>· <![endif]>At first, the purpose would remain to inspire people and spread awareness about benefits of hand-crafted items. However, There would be additional content as mentioned above.
 
 Video tutorials of all the handmade craft items.
 
@@ -275,7 +268,7 @@ I would also make the contact form fully function with a post request and have a
 
 Testing Phase
 
-I have included details of testing both during development and post development in a separate document called TESTING.md
+I have a second document named TESTING.md that contains information about testing both during and after development.
 
 Deployment
 
@@ -285,7 +278,7 @@ From the project’s repository, go to the Settings tab.
 From the left-hand menu, select the Pages tab.
 Under the Source section, select the Main branch from the drop-down menu and click Save.
 A message will be displayed to indicate a successful deployment to GitHub pages and provide the live link.
-You can find the live site via the following URL -
+You can find the live site via the following URL- https://sowmya1283.github.io/handmadehobbies/
 
 Credits
 
@@ -301,12 +294,12 @@ And the biggest thanks goes to my daughter and my mother who inspires me and enc
 Code institute tutor support for fixing any workspace issues or launching website issues has been very helpful.
 General reference:
 
-The project was influenced by the Code Institutes code along project called Love running. Whilst I have tried to deviate as much as possible there may be some similarities in the code.
-I relied upon W3schools, google and stack overflow for general references throughout the project.
+The Code Institute’s “Love Running” code-along initiative had an impact on the project. Even though I made every effort to diverge, there might still be some code similarities.
+Throughout the project, I used stack overflow, google, and W3schools as general references.
 Content:
 
-All content was written by myself except for the below except some used from chatGPT.
-The excerpt from Transform your life on teachings.html – wikipedia.org
+All content was written by myself except some used from chatGPT.
+Some of the handcraft text contents were inspired by – wikipedia.org
 Icons in the footer were taken from Font Awesome
 Header, text content fonts imported from - Google Fonts
 Media:
@@ -320,4 +313,4 @@ Some Crazy For Crochet gallery images are generated from - https://stock.adobe.c
 Some Crazy For Crochet gallery images are generated from - https://www.freepik.com/
 Screenshot under README.md section titled “site overview” was created view Am I responsive
 Some of the images are from google images https://www.google.com/imghp?hl=en-GB&tab=ri&authuser=0&ogbl
-Markdown 21617 bytes 2850 words 333 lines Ln 333, Col 170HTML 15953 characters 2710 words 213 paragraphs
+Markdown 21798 bytes 2841 words 334 lines Ln 27, Col 25HTML 16154 characters 2704 words 213 paragraphs
