@@ -121,7 +121,7 @@ Social media link displayed in a line side by side in the footer.
 
 - By placing the anchor tag and the font awesome "i" tag on the same line, the underscore disappeared.
 
-## II.Testing Phase
+## II.Testing Phase
 
 **1. Validators**
 
