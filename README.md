@@ -1,8 +1,8 @@
 
 
-#Handmade Hobbies
+# Handmade Hobbies
 
-Site Overview
+## I. Site Overview
 
 A website to showcase and sell handmade craft projects for selling or even blogging or to combine both. As you know handicrafts is the manual labour and they are very small-scale medium to generate products rather than using automated machines. A phenomenon known as the “handmade effect” occurs when buyers show a preference for these goods over the ones that are largely produced.
 
@@ -10,47 +10,50 @@ A person’s values and personality are best expressed through handmade products
 
 <![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.png)<![endif]>
 
-Table of contents:
+## Table of contents:
 
-Site Overview
-Planning stage
-Target Audiences
-User Stories
-Site Aims
-How Is This Will Be Achieved:
-Wireframes
-Colour Scheme
-Current Features Common to all pages
-    Header Element:
-    Title
-        Logo
-        Navigation Bar
-        Hero Image
-    Footer
-Typography  
-Individual Page Content features
-Home Page or Welcome Home Page
-Crazy for Crochet Content Page
-Mosaic Art Content Page
-Quilling Craft Content Page
-Sign Up Page
-Future-Enhancements
-Testing Phase
-Deployment
-Credits
-Honourable mentions
-General reference
-Content
-Media
-Planning stage
+## I. Site Overview
+## II. Planning stage
+### - Target Audiences
+### - User Stories
+### - Site Aims
+### - How Is This Will Be Achieved:
+### - Wireframes
+### - Colour Scheme
+## III. Current Features Common to all pages
+### Header Element:
+        -Title
+        - Logo
+        - Navigation Bar
+        - Hero Image
+### Footer
+### Typography  
+## IV. Individual Page Content features
+### - Home Page or Welcome Home Page
+### - Crazy for Crochet Content Page
+### - Mosaic Art Content Page
+### - Quilling Craft Content Page
+### - Sign Up Page
+## V. Future-Enhancements
+## VI. Testing Phase
+## VII. Deployment
+## VIII. Credits
+### Honourable mentions
+### General reference
+### Content
+### Media
 
-Target Audiences:
+
+## II. Planning stage
+
+### Target Audiences:
 
 Users who share the passion for handmade items.
 Users with a general interest in crochet, mosaic art and quilling art.
 Users who want to order or buy products mentioned on the website.
 Users who have seen the products and would like to learn how to make them.
-User Stories:
+
+### User Stories:
 
 As a hobbyist, I want to see the contents of the webpage to get inspiration.
 As a hobbyist, I want to know what are the benefits of handmade hobbies.
@@ -58,14 +61,16 @@ As a hobbyist, I want to easily navigate through the website to see what craft c
 As a user, I want to view photos in different craft categories.
 As a user, I want to submit form for signing up.
 As a user, I want to meet up people with similar interest
-Site Aims:
+
+### Site Aims:
 
 To inspire hobby enthusiasts.
 To educate the user regarding benefits of handmade hobbies.
 To offer the user a chance to connect to the community with similar interest in person.
 To offer the user a way to contact the site author for further info or discussion.
 To offer the user a platform for meetup events.
-How Is This Will Be Achieved:
+
+### How Is This Will Be Achieved:
 
 The home page provides the user with a summary of the handcrafted items.
 The information like what and why regarding handmade hobbies.
@@ -73,7 +78,8 @@ The information related to benefits of handmade crafts.
 Gallery of the different handmade items to attract the users.
 The site will provide information on the meetups available to engage with the community.
 The option for users to connect with the author via sign up link.
-Wireframes:
+
+### Wireframes:
 
 Wireframes were added to this project to keep my thoughts structured and to avoid any discrepancies from the actual website design. Links to the five targeted pages on desktop and mobile platforms are provided below.
 
@@ -106,15 +112,16 @@ In order to improve the user experience, wireframes were modified a changed a bi
 Though some texts were added to the Crazy For Crochet, Mosaic Art and Quilling Craft pages initially, they have been removed and might be added in upcoming deployments.
 Initial ‘Header’ had the same design across all the pages. Later only logo has been added in the home page and rest of the pages have same title.
 Header section of the welcome page has new logo. (Old logo has been replaced)
-Colour Scheme:
+
+### Colour Scheme:
 
 When making my selection, I wanted to go with a color palette that was stylish. For this reason, I went with a light blue navigation bar and accent colors of dim light orange and grey. To gauge the contrast scores, I developed a colour grid using the colour https://contrast-grid.eightshapes.com/ . I was able to guarantee that all text stayed visible and that everyone could visit the website by using this grid.
 
 <![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.png)<![endif]>
 
-Current Features Common to all pages
+## III. Current Features Common to all pages
 
-Header Element
+### Header Element
 
 The header element stays fixed at the top of the page when the user first scrolls through (or scrolls up and down). A Code Institute alumnus pointed out that the sticky header will improve user experience and adhere to prevailing trends. The header itself contains the below elements.
 
@@ -126,6 +133,7 @@ The title serves to state the name of the Website.
 The title present in Crazy For Crochet, Mosaic Art, Quilling Craft and Sign Up pages.
 The title is not present in the ‘Welcome Home’ Page. Logo with the text same as Handmade Hobbies is presented to the user to appease.
 Title in all other pages also serves as a navigation link to the home page “Welcome Home!” as per the well-established convention expected by the user.
+
 Logo:
 
 The logos are created to the captivate user’s attention and to portray the website intentions. Colourful ai generated image of heart is presented in ‘Welcome Home!’ page. (The other pages have Title with the same text as mentioned in the logo of the home page.)
@@ -144,12 +152,13 @@ The below image shows the user’s current page.
 Hover-over feature, which turns the menu option the same as the active page when users hover their cursor over the navbar heading.
 <![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image006.png)<![endif]>
 
-Hero Image
+### Hero Image
 
 I have included a hero image in the ‘Welcome Home!’ page only.
 All other pages are similar to gallery pages and have nav links.
 And also a sign-up form also doesn’t have any logo image.
-Footer
+
+### Footer
 
 The footer includes direct links to all the social media platform with the little icons
 Initially social media platforms were having the placeholder texts then later replaced with icons. These icons are very small and take-up very little space.
@@ -158,7 +167,7 @@ These icons were imported from font awesome using Javascript at the bottom of th
 A statement stating that all photographs on the website are the property of Handmade Hobbies and that the site is only meant for educational reasons was included. I added this after chatting on Slack with the Code Institute for suggestions.
 <![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image007.png)<![endif]>
 
-Typography
+### Typography
 
 Throughout the page, there are three fonts used:
 
@@ -170,9 +179,9 @@ For all other headings including the navbar default font is used.
 
 All fonts were sourced from Google fonts, as stated in the credits.
 
-Individual Page Content features
+## IV. Individual Page Content features
 
-Home Page Or ‘Welcome Home!’ Page:
+### Home Page Or ‘Welcome Home!’ Page:
 
 Hero-Image:
 
@@ -214,18 +223,18 @@ this meetup events tell information like time, day of the meetup and what will b
 
 <![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image013.png)<![endif]>
 
-All the other page contents(Similar to Gallery)
+## All the other page contents(Similar to Gallery)
 
 All the pages apart from welcome home page in the website are similar like ‘Gallery’ pages. They have different images files loaded and are responsive to the screen sizes. On mobile screens, these images are loaded in single column. As the screen size increases the column are spread-out. To help the visually impaired users on the scenario of failed image loading, an alt text has been added to each image. In-case of image loading fails, the alt text displays. Columns will increase according to the screen size. (eg., for mobile single column, for tablet 3 columns and laptops four columns)
 
-Crazy For Crochet Page:
+### Crazy For Crochet Page:
 
 A wide range of creative possibilities are offered by Crochet. Some examples are clothing, baby items, home decor items, accessories, seasonal items etc.
 This crochet gallery page has some beautiful images to inspire the hobbyists.
 The gallery page has only image content, no text content has been added to this.
 <![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image014.png)<![endif]>
 
-Mosaic Art Page:
+### Mosaic Art Page:
 
 <![if !supportLists]>· <![endif]>Mosaic art is a form of decorative art mainly from different cultural background like Greece, Roman and Islamic traditions. Created using small piece of materials such as stone, glass pieces, ceramic or tiles etc.
 
@@ -233,14 +242,14 @@ This Mosaic gallery page has some beautiful images to inspire the hobbyists.
 The gallery page has only image content, no text content has been added to this.
 <![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image015.png)<![endif]>
 
-Quilling Craft Page:
+### Quilling Craft Page:
 
 Quilling is a form of paper art which is made using strips of paper. These stripes are rolled, glued to create different shapes.
 The Quilling Craft gallery page has some beautiful images to inspire the hobbyists.
 The gallery page has only image content, no text content has been added to this.
 <![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image016.png)<![endif]>
 
-Sign Up page content
+### Sign Up page content
 
 The purpose of this page is to simulate the process of submitting a form.
 A background image with light golden colour which is in contrast for the form colour.
@@ -249,7 +258,7 @@ Adjusted the image and the form properly by using margin-top. The large gap betw
 All the radio buttons were not aligned properly at the initial stage and they have been made to spread-out with justify content property.
 <![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image017.png)<![endif]>
 
-Future-Enhancements
+## V. Future-Enhancements
 
 The future intention of the site would be to serve as a website specifically to grow visitors and involve more hobbyists to sign up to the website. To add more content related to new designs, tutorials, different type of materials used. If possible enhance the website to create a buy and sell platform at later stages.
 <![if !supportLists]>· <![endif]>At first, the purpose would remain to inspire people and spread awareness about benefits of hand-crafted items. However, There would be additional content as mentioned above.
@@ -266,11 +275,11 @@ Improvising the media content format on the different gallery pages.
 
 I would also make the contact form fully function with a post request and have a database to collate data for the mailing list.
 
-Testing Phase
+## VI. Testing Phase
 
 I have a second document named TESTING_PHASE.md that contains information about testing both during and after development.
 
-Deployment
+## VII. Deployment
 
 I deployed the page on GitHub pages via the following procedure: -
 
@@ -280,9 +289,9 @@ Under the Source section, select the Main branch from the drop-down menu and cli
 A message will be displayed to indicate a successful deployment to GitHub pages and provide the live link.
 You can find the live site via the following URL- https://sowmya1283.github.io/handmadehobbies/
 
-Credits
+## VIII. Credits
 
-Honourable mentions
+### Honourable mentions:
 
 This project could not have happened without the support of the following people listed in no particular order:
 
@@ -292,17 +301,20 @@ Tulio Minini: One of my friend from code institute has been helping me in review
 The code institute Slack community as a whole who tested and supported throughout.
 And the biggest thanks goes to my daughter and my mother who inspires me and encourages me to keep learning.
 Code institute tutor support for fixing any workspace issues or launching website issues has been very helpful.
-General reference:
+
+### General reference:
 
 The Code Institute’s “Love Running” code-along initiative had an impact on the project. Even though I made every effort to diverge, there might still be some code similarities.
 Throughout the project, I used stack overflow, google, and W3schools as general references.
-Content:
+
+### Content:
 
 All content was written by myself except some used from chatGPT.
 Some of the handcraft text contents were inspired by – wikipedia.org
 Icons in the footer were taken from Font Awesome
 Header, text content fonts imported from - Google Fonts
-Media:
+
+### Media:
 
 1. Handmade Hobbies logo is generated and modified from - https://ideogram.ai/ and Canva respectively.
 2. Some Quilling Craft gallery images are taken from - https://www.freepik.com/
