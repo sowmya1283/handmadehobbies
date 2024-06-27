@@ -160,6 +160,7 @@ Social media link displayed in a line side by side in the footer.
 
 ![Desktop Homepage performance](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/HomepagePerformancedesktop.png)
 
+
 **Mobile**
 ![Mobile homepage performance](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/HomepagePerformanceMobile.png)
 
@@ -168,6 +169,7 @@ Social media link displayed in a line side by side in the footer.
 
 **Desktop** 
 ![Crochet performance desktop](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/CrazyforcrochetPerformanceDesktop.png)
+
 
 **Mobile**
 
@@ -179,6 +181,7 @@ Social media link displayed in a line side by side in the footer.
 
 ![Mosaic performance desktop](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/MosaicPerformance_Desktop.png)
 
+
 **Mobile**
 
 ![Mosaic performance mobile](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/MosaicPerformance_Mobile.png)
@@ -189,6 +192,7 @@ Social media link displayed in a line side by side in the footer.
 
 ![Mosaic performance desktop](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/QullingPerformanceDesktop.png)
 
+
 **Mobile:**
 
 ![Mosaic performance desktop](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/QullingPerformanceMobile.png)
@@ -198,6 +202,8 @@ Social media link displayed in a line side by side in the footer.
 **Desktop:**
 
 ![Mosaic performance desktop](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/SignupPerformanceDesktop.png)
+
+
 **Mobile:**
 
 ![Mosaic performance desktop](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/Signupperformancemobile.png)
