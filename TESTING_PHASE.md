@@ -143,8 +143,6 @@ Social media link displayed in a line side by side in the footer.
 
 ![No css issue screenshot](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/CSS_noerror.png)
 
-  
-[<![if !vml]>![CSS validator badge](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.png)<![endif]>](https://camo.githubusercontent.com/670b7edf040247729106e1d47807221159973c6406a36607949e50a7f37d5ef1/68747470733a2f2f6a69677361772e77332e6f72672f6373732d76616c696461746f722f696d616765732f76637373)
 
 **2. Lighthouse Scores**
 
@@ -158,46 +156,48 @@ Social media link displayed in a line side by side in the footer.
 
 **Home page:**
 
-**Desktop** **<![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.png)<![endif]>**
+**Desktop**
+
+![Desktop Homepage performance](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/HomepagePerformancedesktop.png)
 
 **Mobile**
+![Mobile homepage performance](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/HomepagePerformanceMobile.png)
 
-**<![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image005.png)<![endif]>**
 
 **2. Crazy For Crochet:**
 
-**Desktop** **<![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image006.png)<![endif]>**
+**Desktop** 
+![Crochet performance desktop](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/CrazyforcrochetPerformanceDesktop.png)
 
 **Mobile**
 
-**<![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image007.png)<![endif]>**
+![Crochet performance mobile](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/CrazyforcrochetPerformanceMobile.png)
 
 **3. Mosaic Art**
 
 **Desktop**
 
-**<![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image008.png)<![endif]>**
+![Mosaic performance desktop](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/MosaicPerformance_Desktop.png)
 
 **Mobile**
 
-**<![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image009.png)<![endif]>**
+![Mosaic performance mobile](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/MosaicPerformance_Mobile.png)
 
 **4. Quilling Craft**
 
 **Desktop:**
 
-**<![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image010.png)<![endif]>**
+![Mosaic performance desktop](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/QullingPerformanceDesktop.png)
 
 **Mobile:**
 
-**<![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image011.png)<![endif]>**
+![Mosaic performance desktop](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/QullingPerformanceMobile.png)
 
 **5. Sign-Up Page**
 
 **Desktop:**
 
-**<![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image012.png)<![endif]>**
-
+![Mosaic performance desktop](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/SignupPerformanceDesktop.png)
 **Mobile:**
 
-**<![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image013.png)<![endif]>**
+![Mosaic performance desktop](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/Signupperformancemobile.png)
