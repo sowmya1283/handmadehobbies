@@ -162,6 +162,8 @@ Social media link displayed in a line side by side in the footer.
 
 
 **Mobile**
+
+
 ![Mobile homepage performance](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/HomepagePerformanceMobile.png)
 
 
@@ -171,7 +173,9 @@ Social media link displayed in a line side by side in the footer.
 ![Crochet performance desktop](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/CrazyforcrochetPerformanceDesktop.png)
 
 
+
 **Mobile**
+
 
 ![Crochet performance mobile](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/CrazyforcrochetPerformanceMobile.png)
 
