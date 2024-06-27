@@ -135,7 +135,7 @@ Social media link displayed in a line side by side in the footer.
 
 - Removed the '/' at the end of the tags specified by the HTML validator
 
-<![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.png)<![endif]>
+![HTML info and warning](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/HTML_info_warnings.png)
 
 **_CSS_** **-** [**https://jigsaw.w3.org/css-validator/**](https://jigsaw.w3.org/css-validator/)
 
