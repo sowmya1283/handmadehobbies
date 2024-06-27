@@ -14,18 +14,18 @@ A person’s values and personality are best expressed through handmade products
 
 ## I. Site Overview
 ## II. Planning stage
-### - Target Audiences
-### - User Stories
-### - Site Aims
-### - How Is This Will Be Achieved:
-### - Wireframes
-### - Colour Scheme
+        ### - Target Audiences
+        ### - User Stories
+        ### - Site Aims
+        ### - How Is This Will Be Achieved:
+        ### - Wireframes
+        ### - Colour Scheme
 ## III. Current Features Common to all pages
 ### Header Element:
-        -Title
-        - Logo
-        - Navigation Bar
-        - Hero Image
+ #### - Title
+ #### - Logo
+ #### - Navigation Bar
+ #### - Hero Image
 ### Footer
 ### Typography  
 ## IV. Individual Page Content features
@@ -38,74 +38,74 @@ A person’s values and personality are best expressed through handmade products
 ## VI. Testing Phase
 ## VII. Deployment
 ## VIII. Credits
-### Honourable mentions
-### General reference
-### Content
-### Media
+### - Honourable mentions
+### - General reference
+### - Content
+### - Media
 
 
 ## II. Planning stage
 
 ### Target Audiences:
 
-Users who share the passion for handmade items.
-Users with a general interest in crochet, mosaic art and quilling art.
-Users who want to order or buy products mentioned on the website.
-Users who have seen the products and would like to learn how to make them.
+- Users who share the passion for handmade items.
+- Users with a general interest in crochet, mosaic art and quilling art.
+- Users who want to order or buy products mentioned on the website.
+- Users who have seen the products and would like to learn how to make them.
 
 ### User Stories:
 
-As a hobbyist, I want to see the contents of the webpage to get inspiration.
-As a hobbyist, I want to know what are the benefits of handmade hobbies.
-As a hobbyist, I want to easily navigate through the website to see what craft categories are available.
-As a user, I want to view photos in different craft categories.
-As a user, I want to submit form for signing up.
-As a user, I want to meet up people with similar interest
+- As a hobbyist, I want to see the contents of the webpage to get inspiration.
+- As a hobbyist, I want to know what are the benefits of handmade hobbies.
+- As a hobbyist, I want to easily navigate through the website to see what craft categories are available.
+- As a user, I want to view photos in different craft categories.
+- As a user, I want to submit form for signing up.
+- As a user, I want to meet up people with similar interest
 
 ### Site Aims:
 
-To inspire hobby enthusiasts.
-To educate the user regarding benefits of handmade hobbies.
-To offer the user a chance to connect to the community with similar interest in person.
-To offer the user a way to contact the site author for further info or discussion.
-To offer the user a platform for meetup events.
+- To inspire hobby enthusiasts.
+- To educate the user regarding benefits of handmade hobbies.
+- To offer the user a chance to connect to the community with similar interest in person.
+- To offer the user a way to contact the site author for further info or discussion.
+- To offer the user a platform for meetup events.
 
 ### How Is This Will Be Achieved:
 
-The home page provides the user with a summary of the handcrafted items.
-The information like what and why regarding handmade hobbies.
-The information related to benefits of handmade crafts.
+- The home page provides the user with a summary of the handcrafted items.
+- The information like what and why regarding handmade hobbies.
+- The information related to benefits of handmade crafts.
 Gallery of the different handmade items to attract the users.
-The site will provide information on the meetups available to engage with the community.
-The option for users to connect with the author via sign up link.
+- The site will provide information on the meetups available to engage with the community.
+- The option for users to connect with the author via sign up link.
 
 ### Wireframes:
 
 Wireframes were added to this project to keep my thoughts structured and to avoid any discrepancies from the actual website design. Links to the five targeted pages on desktop and mobile platforms are provided below.
 
-Mobile Wireframes:
+**_Mobile Wireframes:_**
 
-Welcome Home Page
+[Welcome Home Page](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/wireframes/Welcomepage_Mobile.png)
 
-Crazy For Crochet Page
+[Crazy For Crochet Page](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/wireframes/Crochetgallerypage_Mobile.png)
 
-Mosaic Art Page
+[Mosaic Art Page](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/wireframes/Mosaic_art_gallery_mobile.png)
 
-Quilling Craft Page
+[Quilling Craft Page](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/wireframes/QuillingGallery_Mobile.png)
 
-Sign-Up Page
+[Sign-Up Page](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/wireframes/SignupMobile.png)
 
-Desktop wireframes:
+**_Desktop wireframes:_**
 
-Welcome Home Page
+[Welcome Home Page](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/wireframes/WelcomePagedesktop.png)
 
-Crazy For Crochet Page
+[Crazy For Crochet Page](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/wireframes/Crochet%20Page_desktop.png)
 
-Mosaic Art Page
+[Mosaic Art Page](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/wireframes/Maosaic%20Art%20Page_desktop.png)
 
-Quilling Craft Page
+[Quilling Craft Page](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/wireframes/QullingArt_page_desktop.png)
 
-Sign-Up Page
+[Sign-Up Page](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/wireframes/Signuppage_desktop.png)
 
 In order to improve the user experience, wireframes were modified a changed a bit. Please find the below changes.
 
