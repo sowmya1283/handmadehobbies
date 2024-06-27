@@ -8,7 +8,7 @@ A website to showcase and sell handmade craft projects for selling or even blogg
 
 A person’s values and personality are best expressed through handmade products, which always have a large value in the market. They showcase the benefits of “uniqueness” and "love. “This website is designed for any fellow hobbyists, or any customers who are interested to buy or even learn. If someone who share the same passion and love for handmade craft items then this website is for perfect for you. Colourful crochet items, small mirror or mosaic art and also quilling art are added in this website.
 
-![Hero image](https://github.com/sowmya1283/handmadehobbies/blob/main/assets/images/hero.webp)
+![Hero image](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/homepageinalldevices.png)
 
 ## Table of contents:
 
