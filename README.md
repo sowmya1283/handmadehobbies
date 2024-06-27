@@ -117,7 +117,8 @@ Header section of the welcome page has new logo. (Old logo has been replaced)
 
 When making my selection, I wanted to go with a color palette that was stylish. For this reason, I went with a light blue navigation bar and accent colors of dim light orange and grey. To gauge the contrast scores, I developed a colour grid using the colour https://contrast-grid.eightshapes.com/ . I was able to guarantee that all text stayed visible and that everyone could visit the website by using this grid.
 
-<![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.png)<![endif]>
+
+![Color grid used](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/%20colorgrid.png)
 
 ## III. Current Features Common to all pages
 
@@ -127,7 +128,7 @@ The header element stays fixed at the top of the page when the user first scroll
 
 **_Title:_**
 
-<![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.png)<![endif]>
+![Title Screenshot](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/title.png)
 
 The title serves to state the name of the Website.
 The title present in Crazy For Crochet, Mosaic Art, Quilling Craft and Sign Up pages.
@@ -140,7 +141,7 @@ The logos are created to the captivate user’s attention and to portray the web
 
 Logo on mobile devices ensured the title stays as big as possible on a smaller screen, improving the user experience.
 
-<![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.png)<![endif]>
+![logo](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/logo.png)
 
 **_Navigation Bar:_**
 
