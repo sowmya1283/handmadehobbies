@@ -148,16 +148,19 @@ Logo on mobile devices ensured the title stays as big as possible on a smaller s
 The navigation bar appears on all five pages (including the form Sign Up page) with a white background.
 It contains links to the Welcome Home!, Crazy For Crochet, Mosaic Art , Quilling Craft and Sign Up page to allow easy navigation around the website.
 The below image shows the user’s current page.
-<![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image005.png)<![endif]>
+
+![Nav Bar](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/navbar.png)
 
 Hover-over feature, which turns the menu option the same as the active page when users hover their cursor over the navbar heading.
-<![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image006.png)<![endif]>
+
+![Hover over highlight](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/HoveroverNavbar.png)
 
 ### Hero Image
 
 I have included a hero image in the ‘Welcome Home!’ page only.
 All other pages are similar to gallery pages and have nav links.
 And also a sign-up form also doesn’t have any logo image.
+
 
 ### Footer
 
@@ -166,19 +169,20 @@ Initially social media platforms were having the placeholder texts then later re
 Still Handmade Hobbies accounts on all those Social Media platform is pending to be developed in the upcoming phases. These links then will updated to connect to the respective pages.
 These icons were imported from font awesome using Javascript at the bottom of the page.
 A statement stating that all photographs on the website are the property of Handmade Hobbies and that the site is only meant for educational reasons was included. I added this after chatting on Slack with the Code Institute for suggestions.
-<![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image007.png)<![endif]>
+
+![Footer](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/footer.png)
 
 ### Typography
 
-Throughout the page, there are three fonts used:
+- Throughout the page, there are three fonts used:
 
-Merienda- as the website intended to be creative. It has a font-family of Dancing style making the heading attractive.
+- Merienda- as the website intended to be creative. It has a font-family of Dancing style making the heading attractive.
 
-Default fall back font-family has been given as sans-serif.
+- Default fall back font-family has been given as sans-serif.
 
-For all other headings including the navbar default font is used.
+- For all other headings including the navbar default font is used.
 
-All fonts were sourced from Google fonts, as stated in the credits.
+- All fonts were sourced from Google fonts, as stated in the credits.
 
 ## IV. Individual Page Content features
 
@@ -189,7 +193,9 @@ Hero-Image:
 Very striking and colourful hero image for a website that displays a range of artistic crafts. A variety of colourful supplies and equipment, including yarn, coloured pencils, beads, fabric and paintbrushes are used in the scenario. There’s a hand-drawn sign in the foreground that says “Handmaade Hobbies.” As you can see, the image has two ‘AA’’s in the ‘HANDMAADE’ just to be more creative.
 The background image is configured to cover with the position centre, thus the image appears fantastic on all screen resolution.
 
-<![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image008.png)<![endif]>
+
+![Hero Image](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/hero.png)
+
 
 Inside the hero image, an overlay with the craft categories are listed in this web site. This is added because to create an customer attention or to make a positive impact to a new visitor on the website. This text is made readable with a transparent background making it easier to notice. The position of this overlay is made absolute so that it can be placed on top of the Hero image.
 
@@ -199,11 +205,11 @@ The main purpose of the website is to inspire, convey information or benefits of
 
 As you can see the images below, they are having a title and information as mentioned above.
 
-<![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image009.png)<![endif]>
+![What are handmade hobbies](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/what.png)
 
-<![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image010.png)<![endif]>
+![Why handmade hobbies](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/why.png)
 
-<![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image011.png)<![endif]>
+![Benefits of handmade hobbies](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/benefits.png)
 
 The above section is also made responsive based on the Mobile, Tablet and Laptop version. Enough padding is added to make the content displayed neatly within the div for larger screens. Whereas padding has been reduced to make sure that this content is more readable on mobile devices.
 
@@ -213,7 +219,7 @@ Circular image has been added to match the handmade hobbies content which is men
 
 The circular image conveys the message that what users will be doing when they see handmade hobbies. The image has seven sections where people are involved in crochet, knitting, moulding clay, painting etc.
 
-<![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image012.png)<![endif]>
+![Added circular screenshot](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/circularimage.png)
 
 Meetup Times:
 
@@ -222,7 +228,7 @@ The last section of our welcome home page is our ‘Meetup times’ section. A w
 This section provides visitors about all the necessary information about our timings of meetup events happening over the complete week. Based on the information provided on the website user can decide which meetup session they want to join.
 this meetup events tell information like time, day of the meetup and what will be the agenda of the meetup.
 
-<![if !vml]>![](file:////Users/sowmyaankamahadeva/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image013.png)<![endif]>
+![Meetup time screenshot](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/meetup_times.png)
 
 ## All the other page contents(Similar to Gallery)
 
