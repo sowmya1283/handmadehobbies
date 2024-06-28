@@ -297,7 +297,7 @@ I deployed the page on GitHub pages via the following procedure: -
 
 This project could not have happened without the support of the following people listed in no particular order:
 
-- Richard Wells - Code Institute Mentor who has gone above and beyond what was expected of him to help me get this far in the course.
+- [Richard Wells](https://github.com/D0nni387) - Code Institute Mentor who has gone above and beyond what was expected of him to help me get this far in the course.
 - Lewis Dillon: From Code institute For the longest and most comprehensive peer review that I received via our stand-up calls. His feedback was truly amazing
 - Tulio Minini: One of my friend from code institute has been helping me in reviewing the website and provided some great comments.
 - The code institute Slack community as a whole who tested and supported throughout.
