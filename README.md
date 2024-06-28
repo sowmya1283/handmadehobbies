@@ -161,7 +161,7 @@ The header element stays fixed at the top of the page when the user first scroll
 - I have included a hero image in the ‘Welcome Home!’ page only.
 - All other pages are similar to gallery pages and have nav links.
 - And also a sign-up form also doesn’t have any logo image.
-- Hero image had been included in the Home page section.
+- Hero image has been included in the Home page section.
 
 ### Footer
 
@@ -175,14 +175,11 @@ The header element stays fixed at the top of the page when the user first scroll
 
 ### Typography
 
-- Throughout the page, there are three fonts used:
+Throughout the page, there are three fonts used:
 
 - Merienda- as the website intended to be creative. It has a font-family of Dancing style making the heading attractive.
-
 - Default fall back font-family has been given as sans-serif.
-
 - For all other headings including the navbar default font is used.
-
 - All fonts were sourced from Google fonts, as stated in the credits.
 
 ## IV. Individual Page Content features
@@ -246,7 +243,6 @@ All the pages apart from welcome home page in the website are similar like ‘Ga
 ### Mosaic Art Page:
 
 - Mosaic art is a form of decorative art mainly from different cultural background like Greece, Roman and Islamic traditions. Created using small piece of materials such as stone, glass pieces, ceramic or tiles etc.
-
 - This Mosaic gallery page has some beautiful images to inspire the hobbyists.
 - The gallery page has only image content, no text content has been added to this.
 
@@ -273,19 +269,12 @@ Adjusted the image and the form properly by using margin-top. The large gap betw
 ## V. Future-Enhancements
 
 - The future intention of the site would be to serve as a website specifically to grow visitors and involve more hobbyists to sign up to the website. To add more content related to new designs, tutorials, different type of materials used. If possible enhance the website to create a buy and sell platform at later stages.
-
 - At first, the purpose would remain to inspire people and spread awareness about benefits of hand-crafted items. However, There would be additional content as mentioned above.
-
 - Video tutorials of all the handmade craft items.
-
 - How to choose materials to use for different kind of handmade craft items.
-
 - Handmade hobbies account creation on different social media platforms and linking them to the website.
-
 - Bringing users designs on the webpage.
-
 - Improvising the media content format on the different gallery pages.
-
 - I would also make the contact form fully function with a post request and have a database to collate data for the mailing list.
 
 ## VI. Testing Phase
