@@ -7,7 +7,7 @@
 
  ## II. Testing Phase**
 
-[**Validators**](https://github.com/sowmya1283/handmadehobbies/blob/main/TESTING_PHASE.md#Validators)
+[**Validators**](https://github.com/sowmya1283/handmadehobbies/blob/main/TESTING_PHASE.md#1.-Validators)
 
 - HTML
 - CSS
