@@ -311,10 +311,10 @@ This project could not have happened without the support of the following people
 
 ### Content:
 
-- All content was written by myself except some used from chatGPT.
-- Some of the handcraft text contents were inspired by – wikipedia.org
-- Icons in the footer were taken from Font Awesome
-- Header, text content fonts imported from - Google Fonts
+- All content was written by myself except some used from chatGPT: https://chatgpt.com/
+- Some of the handcraft text contents were inspired by wikipedia: https://www.wikipedia.org/
+- Icons in the footer were taken from Font Awesome: https://fontawesome.com/
+- Header, text content fonts imported from Google Fonts: https://fonts.google.com/
 
 ### Media:
 
