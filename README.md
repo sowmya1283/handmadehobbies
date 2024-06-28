@@ -21,13 +21,13 @@ A person’s values and personality are best expressed through handmade products
  ### - Wireframes
  ### - Colour Scheme
 ## III. Current Features Common to all pages
-### Header Element:
- #### - Title
- #### - Logo
- #### - Navigation Bar
- #### - Hero Image
-### Footer
-### Typography  
+### - Header Element:
+ #### Title
+ #### Logo
+ #### Navigation Bar
+ #### Hero Image
+### - Footer
+### - Typography  
 ## IV. Individual Page Content features
 ### - Home Page or Welcome Home Page
 ### - Crazy for Crochet Content Page
