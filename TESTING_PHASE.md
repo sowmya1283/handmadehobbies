@@ -137,7 +137,7 @@ Social media link displayed in a line side by side in the footer.
 
 ![HTML info and warning](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/HTML_info_warnings.png)
 
--After fixing the issue no error
+- After fixing the issue , there were no info or warnings
 
 ![After fixing the issue](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/Htmlvalidatorafter.png)
 
