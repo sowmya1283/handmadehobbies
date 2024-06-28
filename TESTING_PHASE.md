@@ -7,7 +7,7 @@
 
  ## II. Testing Phase**
 
-[**Validators**](https://github.com/sowmya1283/handmadehobbies/blob/main/TESTING_PHASE.md#1.-Validators)
+[**Validators**](https://github.com/sowmya1283/handmadehobbies/blob/main/TESTING_PHASE.md#**1.-validators)
 
 - HTML
 - CSS
@@ -17,7 +17,7 @@
 - Desktop Version
 - Mobile Version
 
-## I.Testing During Development
+## I. Testing During Development
 
 During development phase manual testing is done.
 
@@ -121,7 +121,7 @@ Social media link displayed in a line side by side in the footer.
 
 - By placing the anchor tag and the font awesome "i" tag on the same line, the underscore disappeared.
 
-## II.Testing Phase
+## II. Testing Phase
 
 **1. Validators**
 
