@@ -22,10 +22,10 @@ A person’s values and personality are best expressed through handmade products
  ### - Colour Scheme
 ## III. Current Features Common to all pages
 ### - Header Element:
-   #### **_Title_**
-   #### **_Logo_**
-   #### **_Navigation Bar_**
-   #### **_Hero Image_**
+   ####   **_Title_**
+   ####   **_Logo_**
+   ####   **_Navigation Bar_**
+   ####   **_Hero Image_**
 ### - Footer
 ### - Typography  
 ## IV. Individual Page Content features
@@ -131,7 +131,7 @@ The header element stays fixed at the top of the page when the user first scroll
 ![Title Screenshot](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/title.png)
 
 - The title serves to state the name of the Website.
-- The title present in Crazy For Crochet, Mosaic Art, Quilling Craft and Sign Up pages.
+- The title is present in Crazy For Crochet, Mosaic Art, Quilling Craft and Sign Up pages.
 - The title is not present in the ‘Welcome Home’ Page. Logo with the text same as Handmade Hobbies is presented to the user to appease.
 - Title in all other pages also serves as a navigation link to the home page “Welcome Home!” as per the well-established convention expected by the user.
 
