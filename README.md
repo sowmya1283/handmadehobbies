@@ -325,6 +325,6 @@ This project could not have happened without the support of the following people
 5. Some Crazy For Crochet gallery images are generated from - https://ideogram.ai/
 6. Some Crazy For Crochet gallery images are generated from - https://stock.adobe.com/
 7. Some Crazy For Crochet gallery images are generated from - https://www.freepik.com/
-8. Screenshot under README.md section titled “site overview” was created view Am I responsive
+8. Screenshot under README.md section titled “site overview” was created using - https://ui.dev/amiresponsive
 9. Some of the images are from google images https://www.google.com/imghp?hl=en-GB&tab=ri&authuser=0&ogbl
 10. Some of the images are resized using https://www.tinypng.com
