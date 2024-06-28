@@ -22,10 +22,10 @@ A person’s values and personality are best expressed through handmade products
  ### - Colour Scheme
 ## III. Current Features Common to all pages
 ### - Header Element:
- #### Title
- #### Logo
- #### Navigation Bar
- #### Hero Image
+   #### **_Title_**
+   #### **_Logo_**
+   #### **_Navigation Bar_**
+   #### **_Hero Image_**
 ### - Footer
 ### - Typography  
 ## IV. Individual Page Content features
