@@ -17,6 +17,8 @@
 - Desktop Version
 - Mobile Version
 
+## III. Open Issues
+
 ## I. Testing During Development
 
 During development phase manual testing is done.
@@ -216,3 +218,22 @@ Social media link displayed in a line side by side in the footer.
 **Mobile:**
 
 ![Mosaic performance desktop](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/Signupperformancemobile.png)
+
+
+## III. Open Issues
+
+### 1. Expected Outcome
+
+The body content should be attached to the nav bar with no gap for all mobile screen resolutions.
+
+**_Issue Found:_**
+
+- On some screens in Mobile, for the gallery pages like 'Crazy For Crochet', 'Mosaic Art', 'Quilling Craft' there is a gap between the Nav bar and Body of the page. (For screen resolution between 345px to 466px)
+
+### 1. Expected Outcome
+
+The body content should be attached the nav bar with no gap for desktop version
+
+**_Issue Found:_**
+
+- On desktop version of the app, there is a gap between the Nav bar and Body of the page for Gallery content pages. This design was existed since the wireframes. Need to revisit if this design is ok or fill with some text content.
