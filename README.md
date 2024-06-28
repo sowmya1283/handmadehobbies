@@ -161,7 +161,7 @@ The header element stays fixed at the top of the page when the user first scroll
 - I have included a hero image in the ‘Welcome Home!’ page only.
 - All other pages are similar to gallery pages and have nav links.
 - And also a sign-up form also doesn’t have any logo image.
-- Hero image has been included in the Home page section.
+- Hero image screenshot can be found in the Home page section further in the document.
 
 ### Footer
 
