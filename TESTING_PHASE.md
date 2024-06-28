@@ -7,12 +7,12 @@
 
  ## II. Testing Phase**
 
-[**Validators**](https://github.com/sowmya1283/handmadehobbies/blob/main/TESTING_PHASE.md#validators)
+**Validators**
 
 - HTML
 - CSS
 
-[**Lighthouse Scores**](https://github.com/sowmya1283/handmadehobbies/blob/main/TESTING_PHASE.md#lighthouse-scores)
+**Lighthouse Scores**
 
 - Desktop Version
 - Mobile Version
