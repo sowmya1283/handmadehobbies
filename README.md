@@ -201,7 +201,7 @@ Inside the hero image, an overlay with the craft categories are listed in this w
 
 The main purpose of the website is to inspire, convey information or benefits of handmade craft items , connect with like-minded hobbyists , to reach out to the author for any collaborative work and etc. Therefore the section below the hero image is divided into three parts with detail information about ‘What is’ handmade hobbies is all about? ‘Why’ Handmade hobbies? and ‘Benefits’ of Handmade hobbies for any individual.
 
-As you can see the images below, they are having a title and information as mentioned above.
+As you can see the images below, they are having a title information as mentioned above.
 
 ![What are handmade hobbies](https://github.com/sowmya1283/handmadehobbies/blob/main/docs/screenshots/what.png)
 
