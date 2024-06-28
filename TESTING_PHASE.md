@@ -230,7 +230,7 @@ The body content should be attached to the nav bar with no gap for all mobile sc
 
 - On some screens in Mobile, for the gallery pages like 'Crazy For Crochet', 'Mosaic Art', 'Quilling Craft' there is a gap between the Nav bar and Body of the page. (For screen resolution between 345px to 466px)
 
-### 1. Expected Outcome
+### 2. Expected Outcome
 
 The body content should be attached the nav bar with no gap for desktop version
 
