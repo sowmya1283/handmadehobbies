@@ -236,4 +236,4 @@ The body content should be attached the nav bar with no gap for desktop version
 
 **_Issue Found:_**
 
-- On desktop version of the app, there is a gap between the Nav bar and Body of the page for Gallery content pages. This design was existed since the wireframes. Need to revisit if this design is ok or fill with some text content.
+- On desktop version of the app, there is a gap between the Nav bar and Body for Gallery content pages. This design was existed since the wireframes. Need to revisit if this design is ok or fill with some text content.
